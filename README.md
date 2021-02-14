@@ -53,7 +53,7 @@ Indian chess player. He attained the title of Grandmaster in January
 ## Flow of the Program
 
 ![](https://github.com/Dhyani01/Plagiarism-Analyzer/blob/main/myfolder/flow.png?raw=true)
-## Kmeans Visualization
+## K-means Visualization
 
 
 ![](https://github.com/Dhyani01/Plagiarism-Analyzer/blob/main/myfolder/Orignal.png?raw=true)
