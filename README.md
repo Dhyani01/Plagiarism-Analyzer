@@ -46,14 +46,14 @@ Indian chess player. He attained the title of Grandmaster in January
 ![](myFolder/Vector_Display.png)
 
 
-##Kmeans Visualization
+## Kmeans Visualization
 
 
 ![](myFolder/Orignal.png)
 
 ![](myFolder/Duplicate.png)
 
-##Libraries and Packages used are following:
+## Libraries and Packages used are following:
 - pandas
 
 - NumPy
