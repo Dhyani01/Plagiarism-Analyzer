@@ -1,8 +1,8 @@
-#Minor Project
+# Minor Project
 
-##Plagarism Analyser 
+## Plagarism Analyser 
 
-###Cosine Similarity based plagarism analyser 
+### Cosine Similarity based plagarism analyser 
 
 Cosine similarity is a metric used to measure how similar the documents
 are irrespective of their size. Mathematically, it measures the cosine of the
@@ -15,11 +15,11 @@ smaller the angle, higher the cosine similarity.
 
 
 
-![Screenshot](Cosine_Formula.png)
 
-![Optional Text](../master/myFolder/Cosine_Formula.png)
 
-##Example:
+![](myFolder/Cosine_Formula.png)
+
+## Example:
 
 doc_Vidit = " Vidit Gujrathi (born 24 October 1994) is an
 Indian chess player. He attained the title of Grandmaster in January
@@ -43,15 +43,15 @@ Indian chess player. He attained the title of Grandmaster in January
 
 
 
-![Optional Text](../master/myFolder/Vector_Display.png)
+![](myFolder/Vector_Display.png)
 
 
 ##Kmeans Visualization
 
 
-![Optional Text](../master/myFolder/Orignal.png)
+![](myFolder/Orignal.png)
 
-![Optional Text](../master/myFolder/Duplicate.png)
+![](myFolder/Duplicate.png)
 
 ##Libraries and Packages used are following:
 - pandas
