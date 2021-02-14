@@ -48,17 +48,17 @@ Indian chess player. He attained the title of Grandmaster in January
 
 
 
-![](/myFolder/Vector_Display.png)
+![](https://github.com/Dhyani01/Plagiarism-Analyzer/blob/main/myfolder/Vector_Display.png?raw=true)
 
 ## Flow of the Program
 
-![](/myFolder/flow.png)
+![](https://github.com/Dhyani01/Plagiarism-Analyzer/blob/main/myfolder/flow.png?raw=true)
 ## Kmeans Visualization
 
 
-![](/myFolder/Orignal.png)
+![](https://github.com/Dhyani01/Plagiarism-Analyzer/blob/main/myfolder/Orignal.png?raw=true)
 
-![](/myFolder/Duplicate.png)
+![](https://github.com/Dhyani01/Plagiarism-Analyzer/blob/main/myfolder/Duplicate.png?raw=true)
 
 ## Libraries and Packages used are following:
 - pandas
