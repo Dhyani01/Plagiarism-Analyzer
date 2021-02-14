@@ -17,7 +17,7 @@ smaller the angle, higher the cosine similarity.
 
 
 
-![](/myFolder/Cosine_Formula.png)
+![](https://github.com/Dhyani01/Plagiarism-Analyzer/blob/main/myfolder/Cosine_Formula.png?raw=true)
 
 ## Example:
 
