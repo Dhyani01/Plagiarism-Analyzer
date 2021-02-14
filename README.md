@@ -17,7 +17,7 @@ smaller the angle, higher the cosine similarity.
 
 
 
-![](myFolder/Cosine_Formula.png)
+![](/myFolder/Cosine_Formula.png)
 
 ## Example:
 
@@ -27,6 +27,8 @@ Indian chess player. He attained the title of Grandmaster in January
 the third highest rated player in India (behind Anand and
 Harikrishna), and is the fourth Indian player to have crossed the Elo
 rating threshold of 2700."
+
+
 doc_Vishi Anand = " Viswanathan Anand (born 11 December 1969) is
 an Indian chess grandmaster and former world chess champion. He
 became the first grandmaster from India in 1988, and is one of the few
@@ -35,6 +37,9 @@ achieved in 2006."
 doc_Chess = “Chess is a game based on strategy and warfare
 techniques involving a lot of rules. It is good to improve concentration
 and logical thinking.”
+
+
+
 doc_Queen = " Vidit Gujrathi (born 24 October 1994) is an
 Indian chess player. He attained the title of Grandmaster in January
 2013, becoming the 30th player from India to do so."
@@ -43,15 +48,17 @@ Indian chess player. He attained the title of Grandmaster in January
 
 
 
-![](myFolder/Vector_Display.png)
+![](/myFolder/Vector_Display.png)
 
+## Flow of the Program
 
+![](/myFolder/flow.png)
 ## Kmeans Visualization
 
 
-![](myFolder/Orignal.png)
+![](/myFolder/Orignal.png)
 
-![](myFolder/Duplicate.png)
+![](/myFolder/Duplicate.png)
 
 ## Libraries and Packages used are following:
 - pandas
