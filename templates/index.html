@@ -14,7 +14,7 @@
 		border-radius: 10px;
 	}
 body
-{background-color: black;
+{background-color: yellow;
 
 }
 
@@ -40,7 +40,7 @@ footer{
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: red;
+   background-color: blue;
    color: white;
    text-align: center;
 }
@@ -63,11 +63,12 @@ footer{
 }
 .about-frm{
 	position: fixed;
-	top: -100px;
+	top: -104px;
 	right:200px;
 	width: 0px;
-	background-color: black;
-	border: 1px solid black;
+	background-color: yellow;
+	border: 1px solid yellow;
+	height: 0px;
 }
 
 .about-btn{
@@ -121,6 +122,10 @@ footer{
 	width: 100%;
 
 }
+
+.textPadding{
+	margin-top: 50px;
+}
 </style>
 </head>
 
@@ -134,12 +139,12 @@ footer{
 	  <form class="plag-div" action="{{ url_for('cosineSimilarity')}}" name="inputform" method="post" id="checkform" enctype="multipart/form-data">
 		<div class="front" >
 			<div class="group">
-				<textarea form ="checkform" id="plagtext"  placeholder="" autofocus name="plagtext" cols="100" rows="18" wrap="soft" required></textarea>
+				<textarea class = "textPadding" form ="checkform" id="plagtext"  placeholder="" autofocus name="plagtext" cols="100" rows="18" wrap="soft" required></textarea>
 				<span class="bar"></span>
 			   <label id="plagtextlabel">Please Enter Text & click Check Plagiarism *</label>
 			 </div>
 		<div class="group">
-		  <textarea form ="checkform" id="orgtext"   autofocus name="orgtext" cols="100" rows="18" wrap="soft"></textarea>
+		  <textarea class="textPadding" form ="checkform" id="orgtext"   autofocus name="orgtext" cols="100" rows="18" wrap="soft"></textarea>
 		  <span class="bar"></span>
 		  <label id="orgtextlabel">Original Text (Optional)</label>
 		</div>
@@ -160,11 +165,10 @@ footer{
 	  
   </form>
 
-<footer> <marquee>Made with <span class="heart">❤</span> in AIACT&R
+<footer> <marquee>To steal ideas from one person is plagiarism; to steal from many is research. <span class="heart"> ❤</span>
 	
 		
-	<span class="teacher" >Project Guided by : Mr. Prakash Rao</span> 
-	<span class="teacher" >Contributers - YASH THAKUR ,NIKHIL TIWARI & ANURAG DHYANI</span> 
+
 </marquee>
 
 </footer>
