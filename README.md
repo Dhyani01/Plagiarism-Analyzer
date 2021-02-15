@@ -4,6 +4,9 @@
 
 ### Cosine Similarity based plagarism analyser 
 
+
+[Deployed Link!](plagiarismanalyzer.herokuapp.com/)
+
 Cosine similarity is a metric used to measure how similar the documents
 are irrespective of their size. Mathematically, it measures the cosine of the
 angle between two vectors projected in a multi-dimensional space. The
